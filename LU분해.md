@@ -177,12 +177,15 @@ $$
 -4 & 6 & 3 \\
 -4 & -2 & 8
 \end{pmatrix}
-= 
+
+=
+
 \begin{pmatrix}
 1 & 0 & 0 \\
 -2 & 1 & 0 \\
 -2 & -1 & 1
 \end{pmatrix}
+
 \begin{pmatrix}
 2 & -1 & -2 \\
 0 & 4 & -1 \\
