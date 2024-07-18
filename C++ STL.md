@@ -74,6 +74,10 @@ map에 비해 데이터가 많으면 많을수록 성능이 월등히 좋아짐
 
 Hash 테이블로 구현이 되어있기 때문에 Hash충돌을 신경써주어야함
 
+# map vs unordered_map
+가장 큰 차이는 자동 정렬에 있음
+map은 자동정렬이 되지만 unordered_map은 정렬이 안됨
+
 # List vs Set vs Map
 ## List
     순서 유지, 중복허용
