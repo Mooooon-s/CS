@@ -1,6 +1,15 @@
 # DirectX
     왼손 좌표계를 이용하는 그래픽 api
 
+    객체 접근방식의 문법
+
+    HLSL을 사용
+
+- OpenGL과의 차이점
+    - 오른손 좌표계
+    - c스타일의 함수 호출방식의 문법
+    - GLSL을 사용
+
 ## Device, Device Context
 DirectX11을 사용할 때 반드시 이해해야하는 주된 인터페이스
 
